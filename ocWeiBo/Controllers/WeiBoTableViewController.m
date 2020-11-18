@@ -52,7 +52,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+    // 取消分割线
+    self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+    // 设置UITableView背景色
+    self.tableView.backgroundColor = [UIColor colorWithRed:236/255.0 green:236/255.0 blue:236/255.0 alpha:1.0];
 }
 
 #pragma mark - Table view data source

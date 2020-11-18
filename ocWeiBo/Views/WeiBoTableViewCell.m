@@ -58,6 +58,8 @@
         [self.contentView addSubview:pic];
         self.pic = pic;
     }
+    // 取消单元格的背景颜色，让其显示UITableView的背景色
+    self.backgroundColor = [UIColor clearColor];
     return self;
 }
 
