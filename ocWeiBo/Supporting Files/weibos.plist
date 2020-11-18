@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>picture</key>
+		<string>IR1</string>
+		<key>vip</key>
+		<string>1</string>
+		<key>name</key>
+		<string>name1</string>
+		<key>icon</key>
+		<string>IR1</string>
+		<key>text</key>
+		<string>红外与可见光图像融合</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>IR2</string>
+		<key>vip</key>
+		<string>1</string>
+		<key>name</key>
+		<string>name1name2</string>
+		<key>icon</key>
+		<string>IR2</string>
+		<key>text</key>
+		<string>iOS开发</string>
+	</dict>
+	<dict>
+		<key>vip</key>
+		<string>0</string>
+		<key>name</key>
+		<string>name1name2name3</string>
+		<key>icon</key>
+		<string>IR3</string>
+		<key>text</key>
+		<string>红外与可见光图像融合红外与可见光图像融合红外与可见光图像融合红外与可见光图像融合红外与可见光图像融合红外与可见光图像融合</string>
+	</dict>
+	<dict>
+		<key>vip</key>
+		<string>1</string>
+		<key>name</key>
+		<string>name1name2name3name4</string>
+		<key>icon</key>
+		<string>IR4</string>
+		<key>text</key>
+		<string>iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试iOS开发者测试</string>
+	</dict>
+</array>
+</plist>
